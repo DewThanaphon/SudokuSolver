@@ -6,6 +6,12 @@ Contact: dew.thanaphon523@gmail.com
 
 Code Description: This module uses for solving the sudoku problem from an image of a problem and returns a resultant image that was put result digits by a system.
 
+## Required libraries
+
+```bash
+pip install -r /path/to/requirements.txt
+```
+
 ## How to Use
 
 ```bash
